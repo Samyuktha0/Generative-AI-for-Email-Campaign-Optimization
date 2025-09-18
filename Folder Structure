@@ -1,0 +1,10 @@
+email-campaign-genai/
+├── app/
+│   ├── main.py
+│   └── templates/
+│       └── index.html
+├── static/
+│   └── style.css
+├── .env
+├── requirements.txt
+└── README.md
